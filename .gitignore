@@ -1,0 +1,6 @@
+output/*.rds
+*.html
+.DS_Store
+.Rhistory
+GITHUB_practice.Rproj
+.Rproj.user
